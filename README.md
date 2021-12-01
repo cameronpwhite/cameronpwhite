@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 Currently I'm a Full Stack Web Developer student at Nashville Software School.
 
-I'm learning HTML, CSS, and JavaScript at the moment, but soon I'll be trying my hand at React and Python/Django!
+I'm currently brushing up my skills with HTML, CSS, JavaScript/React, Python/Django, and SQL!
 
 I also have some interest in Web Application Security and Penetration Testing techniques.
 
