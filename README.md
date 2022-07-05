@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 # I'm Cameron White!
 
-Currently I'm a Full Stack Web Developer student at Nashville Software School.
+I'm a full-stack web developer.
 
-I'm currently brushing up my skills with HTML, CSS, JavaScript/React, Python/Django, and SQL!
+I'm well-versed in HTML/CSS, JavaScript/React, Python/Django, and Java/Spring!
 
-I also have some interest in Web Application Security and Penetration Testing techniques.
+In my free time I like to study cybersecurity concepts and web app penetration testing techniques.
 
 Contact me! Email: cameronpwhite98@gmail.com
